@@ -746,7 +746,7 @@ Under the guidance of: [SUNNY BHAVEEN CHANDRA](https://www.linkedin.com/in/c17ha
 
 Ineuron: [www.ineuron.ai](https://ineuron.ai/)
 
-Feel free to check out the source code for this notebook and contribute on [GitHub](#)""")
+Feel free to check out the source code for this notebook and contribute on [GitHub](https://github.com/nani2357/perceptron_from_scratch_python.git)""")
 
 
 
