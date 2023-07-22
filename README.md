@@ -32,4 +32,4 @@ streamlit run app.py
 
 This project wouldn't have been possible without the guidance and teachings of [SUNNY BHAVEEN CHANDRA](https://www.linkedin.com/in/c17hawke/) from [Ineuron](https://ineuron.ai/). 
 
-The project was executed by [Naveen Kadampally]([Your-LinkedIn-Profile-Link](https://www.linkedin.com/in/naveen-kumar-kadampally/)https://www.linkedin.com/in/naveen-kumar-kadampally/)
+The project was executed by [Naveen Kadampally](https://www.linkedin.com/in/naveen-kumar-kadampally/)
