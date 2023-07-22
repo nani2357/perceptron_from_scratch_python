@@ -25,7 +25,7 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 To run the Streamlit app, use the following command:
 
-```bash
+
 streamlit run app.py
 
 # Credits
